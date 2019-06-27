@@ -1,0 +1,8 @@
+﻿cl : Command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  health.cpp
+c:\users\pc\documents\uni\year 2\graphic\coursework-graphics\health.cpp(19): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\pc\documents\uni\year 2\graphic\coursework-graphics\health.cpp(20): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\pc\documents\uni\year 2\graphic\coursework-graphics\health.cpp(21): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\pc\documents\uni\year 2\graphic\coursework-graphics\health.cpp(22): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\pc\documents\uni\year 2\graphic\coursework-graphics\health.cpp(216): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+  sample.vcxproj -> C:\Users\PC\Documents\UNI\year 2\graphic\CourseWork-Graphics\Debug\sample.exe
